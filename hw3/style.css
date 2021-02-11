@@ -119,11 +119,12 @@
 	margin-left: 250px;
 	color: rgb(118,29,142);
 	padding-bottom: -20px;
-	font-size: 15px;
+	font-size: 16px;
 	font-weight: bold;
 	white-space: nowrap;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
-	border-bottom: 2pt double
+	/*border-bottom: 2pt double;*/
+	text-decoration: underline double;
 
 }
 
@@ -171,7 +172,7 @@
 	position: absolute;
 	width:270px;
 	height: 180px;
-	margin-left: 280px;
+	margin-left: 290px;
 
 	
 }
